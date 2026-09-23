@@ -64,12 +64,8 @@ This project was created to practice making a small farming gameplay loop and wo
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1607a39c-c6b8-4fa3-8291-7f0e6e504dc6" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f95eefd-80d3-49d1-8594-4cd8375789d9" />
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d6fa5b0-f2a7-4ef9-af3d-faf743aa7b49" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b5fe827-e94b-44a3-bea3-3fb080fb96f4" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f39cec7-5c0f-4ce1-89e9-4eaf4694a5b5" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ec25dc6-c7e6-4f7c-a962-f60b4d08a884" />
