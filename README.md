@@ -10,13 +10,24 @@ originally designed for mobile platforms.
 
 ## Features
 
-- Crop planting and harvesting
-- Crop selling and coin-based progression
+- Planting and watering crops
+- Crop harvesting and selling
 - Land unlocking system
-- Mobile joystick controls
-- Persistent player progression
-- 3D isometric-style environment
-- Save/load system
+- Inventory and world save system
+- Tree shaking and fruit dropping
+- Dynamic camera effects
+- Harvest and selling particle effects
+- Basic Shader Graph effects
+
+## Technical Highlights
+
+- CharacterController-based player movement
+- Mobile joystick input system
+- Inventory management and persistent data
+- Trigger-based land unlocking
+- Crop interaction and growth systems
+- Layer-based player animation
+- Camera and particle effects for gameplay feedback
 
 ## Technologies
 
@@ -28,23 +39,6 @@ originally designed for mobile platforms.
 ## Purpose
 
 This project was created to practice making a small farming gameplay loop and working with basic Unity systems, effects, camera control, and simple 3D assets.
-
-## Current Progress
-
-* [x] Player movement
-* [x] Planting seeds
-* [x] Watering crops
-* [x] Harvesting crops
-* [x] Selling crops
-* [x] Map unlocking system
-* [x] Inventory & world save
-* [x] 25x25 map
-* [x] Basic Shader Graph
-* [x] Harvest particle effects
-* [x] Coin selling effects
-* [x] Tree shaking
-* [x] Fruit dropping
-* [x] Camera changes when shaking trees
 
 ## Screenshots
 
@@ -73,6 +67,6 @@ This project was created to practice making a small farming gameplay loop and wo
 ## Project Information
 
 **Role:** Unity Developer  
-**Engine:** Unity 2022.3  
+**Engine:** Unity 2022.3.62f3  
 **Language:** C#  
-**Platform:** Android / WebGL
+**Platform:** Android / WebGL  
