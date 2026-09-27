@@ -1,28 +1,28 @@
 # 3D-Mobile-Farm-Simulator
 
-A small Unity project focused on making a simple farming gameplay loop and practicing basic Unity systems.
+A small-scale 3D farming simulation prototype developed with Unity and C#,
+originally designed for mobile platforms.
+
+## 🎮 Play
+
+[Play 3D Farm Simulator on itch.io]
+(https://nguyenduyvn-gamedeveloper.itch.io/3d-farm-simulator)
 
 ## Features
 
-* Planting seeds
-* Watering crops
-* Crop growing and harvesting
-* Selling harvested crops
-* Inventory and coin save system
-* Unlocking new map areas with coins
-* 25x25 map
-* Basic Shader Graph effects
-* Basic particle effects
-* Harvest particle effects based on the crop
-* Tree shaking and dropping fruits
-* Camera angle and zoom changes while shaking trees
+- Crop planting and harvesting
+- Crop selling and coin-based progression
+- Land unlocking system
+- Mobile joystick controls
+- Persistent player progression
+- 3D isometric-style environment
+- Save/load system
 
 ## Technologies
 
 * Unity
 * C#
 * Blender
-* Shader Graph
 * Git & GitHub
 
 ## Purpose
@@ -69,3 +69,10 @@ This project was created to practice making a small farming gameplay loop and wo
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b5fe827-e94b-44a3-bea3-3fb080fb96f4" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ec25dc6-c7e6-4f7c-a962-f60b4d08a884" />
+
+## Project Information
+
+**Role:** Unity Developer  
+**Engine:** Unity 2022.3  
+**Language:** C#  
+**Platform:** Android / WebGL
